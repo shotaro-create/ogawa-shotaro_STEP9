@@ -1,0 +1,21 @@
+.listing_detail__title {
+    padding: 30px 0;
+}
+
+.listing_detail__items p {
+    padding: 10px 0;
+}
+
+.listing_edit_btn {
+    background-color: #0074D9;
+    margin-right: 10px;
+}
+
+.listing_delete_btn {
+    background-color: #FF3366;
+    margin-right: 10px;
+}
+
+.listing_detail__btns {
+    display: flex;
+}

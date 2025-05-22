@@ -1,0 +1,21 @@
+.product_detail__title {
+    margin: 30px 0;
+}
+
+.product_detail__items p {
+    margin: 10px 0;
+}
+
+.product_cart_btn {
+    background-color: #0074D9;
+}
+
+.product_detail__btn--like {
+    margin-bottom: 10px;
+}
+
+.like-btn {
+    border: none;
+    cursor: pointer;
+    background-color: transparent;
+}

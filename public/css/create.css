@@ -1,0 +1,31 @@
+.create__title {
+    margin-bottom: 30px;
+}
+
+.create__form--group input {
+    display: inline-block;
+}
+
+input[type="text"], textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+input[type='number'] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+.create__btns {
+    margin-top: 10px;
+}
+
+.create__btn--submit {
+    background-color: #9191ec;
+}

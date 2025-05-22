@@ -1,0 +1,56 @@
+.product__privates {
+    display: flex;
+}
+
+.product__private--info {
+    margin-right: 100px;
+    margin-top: 10px;
+}
+
+.product__private--name {
+    margin-top: 10px;
+}
+
+.product__private--info p:first-child {
+    margin-bottom: 10px;
+}
+
+.product__private--name p:first-child {
+    margin-bottom: 10px;
+}
+
+.product__title--listing {
+    margin: 20px 0;
+}
+
+/* ボタン */
+.product__btn {
+    margin: 20px 0;
+}
+
+.btn__account--edit {
+    background-color: #0074D9;
+}
+
+.btn__product--create {
+    background-color: #0074D9;
+}
+
+.product__btn--create {
+    text-align: right;
+}
+
+/* 購入した商品 */
+.product__title--purchase {
+    margin: 30px 0;
+}
+
+.product__table--purchase {
+    width: 100%;
+}
+
+.product__table--purchase th, .product__table--purchase td {
+    border-bottom: 1px solid #dcdcdc;
+    padding: 10px 0;
+    text-align: center;
+}

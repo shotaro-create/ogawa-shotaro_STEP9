@@ -1,0 +1,57 @@
+.product__title h1 {
+  margin-bottom: 30px;
+}
+
+.product__table {
+  width: 100%;
+}
+
+.product__table th, .product__table td {
+  border-bottom: 1px solid #dcdcdc;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.product__btn--listing_detail {
+  background-color: green;
+}
+
+.product__image {
+  width: 40px;
+  height: auto;
+}
+
+/* 検索欄 */
+.product__search {
+  display: flex;
+  justify-content: center;
+  margin: 30px 0;
+}
+
+.product__search--name input,
+.product__search--minPrice input,
+.product__search--maxPrice input {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.product__search--name input {
+  width: 300px;
+}
+
+.product__search--name {
+  margin-right: 20px;
+}
+
+.product__search span {
+  margin: 0 40px;
+}
+
+.product__search--maxPrice {
+  margin-right: 20px;
+}
+
+.product__btn--search {
+  background-color: #0074D9;
+}

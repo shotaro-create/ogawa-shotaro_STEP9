@@ -1,0 +1,13 @@
+.purchase__title {
+    margin: 30px 0;
+}
+
+.purchase__form {
+    display: flex;
+    margin: 10px 0;
+}
+
+.purchase__btn {
+    margin-right: 10px;
+    background-color: #0074D9;
+}
